@@ -20,6 +20,8 @@
 - Framework: React
 
 
+## Deployed Link 
+https://neha-2701.github.io/Counter-App/
 
 ## Here are my social media handles:
 
